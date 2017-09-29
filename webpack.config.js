@@ -1,4 +1,4 @@
-const path = require("path"); // Базовая переменная для Windows и Linux
+const path = require(`path`); // Базовая переменная для Windows и Linux
 const HtmlWebpackPlugin = require('html-webpack-plugin'); // плагин создания html
 // Базовые пути
 var PATHS = {
