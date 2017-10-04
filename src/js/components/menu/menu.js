@@ -9,3 +9,4 @@ export default function (array, className) {
 	menu.innerHTML = listItems;
 	return menu;
 }
+import './menu.scss';
